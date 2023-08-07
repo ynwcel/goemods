@@ -1,4 +1,4 @@
-module github.com/ynwcel/gomods/elog
+module github.com/ynwcel/gmods/elog
 
 go 1.20
 

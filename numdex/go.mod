@@ -1,3 +1,3 @@
-module github.com/ynwcel/gomods/numdex
+module github.com/ynwcel/gmods/numdex
 
 go 1.20
