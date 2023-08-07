@@ -1,4 +1,4 @@
-package numx
+package numdex
 
 import (
 	"fmt"
